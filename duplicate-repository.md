@@ -1,7 +1,7 @@
 The [repository](https://github.com/source-ag/assignment-react-native-engineer) for the assignment 
 is public and Github does not allow the creation of private forks for public repositories.
 
-The correct way of creating a private frok by duplicating the repo is documented 
+The correct way of creating a private fork by duplicating the repo is documented
 [here](https://help.github.com/articles/duplicating-a-repository/).
 
 For this assignment the commands are:
